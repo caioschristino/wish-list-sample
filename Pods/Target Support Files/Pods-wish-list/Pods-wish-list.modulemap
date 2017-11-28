@@ -1,0 +1,6 @@
+framework module Pods_wish_list {
+  umbrella header "Pods-wish-list-umbrella.h"
+
+  export *
+  module * { export * }
+}
